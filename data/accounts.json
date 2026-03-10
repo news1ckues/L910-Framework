@@ -1,0 +1,12 @@
+{
+  "accounts": [
+    {
+      "id": "1",
+      "owner": "Ivan Petrov",
+      "balance": 1500,
+      "isActive": true,
+      "currencies": ["USD", "EUR"],
+      "createdAt": "2024-09-01"
+    }
+  ]
+}

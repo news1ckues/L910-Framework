@@ -1,0 +1,12 @@
+{
+  "cards": [
+    {
+      "id": "1",
+      "number": "1111222233334444",
+      "limit": 5000,
+      "isBlocked": false,
+      "transactions": ["Amazon", "Apple Store"],
+      "issuedAt": "2023-05-01"
+    }
+  ]
+}
